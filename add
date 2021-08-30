@@ -2,5 +2,6 @@ Windows에서 Cloud-barista의 환경구축을 할 경우 vmmem이라는 프로�
 docker-desktop과 wsl2 기동 시 해당 프로세스가 동작하게 되고 상당히 많은 메모리를 잡아 먹으며 발열을 경험 
 https://user-images.githubusercontent.com/46340193/131351384-8e8637bd-8281-4aed-b89d-1897f3e17db2.PNG
 <img src="https://user-images.githubusercontent.com/46340193/131351384-8e8637bd-8281-4aed-b89d-1897f3e17db2.PNG">
+![과점유](https://user-images.githubusercontent.com/46340193/131351384-8e8637bd-8281-4aed-b89d-1897f3e17db2.PNG)
 
 
